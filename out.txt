@@ -1,1 +1,1 @@
-kilo,november,alfa,foxtrot,delta,bravo,echo,whiskey,golf,papa,hotel,lima,sierra,quebec,charlie,mike,tango,zulu,yankee,x-ray,victor,uniform,romeo,oscar,juliet,india
+x-ray,mike,zulu,lima,alfa,oscar,yankee,hotel,november,india,kilo,bravo,quebec,juliet,golf,tango,foxtrot,echo,sierra,papa,uniform,delta,whiskey,victor,romeo,charlie
